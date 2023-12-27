@@ -1,9 +1,9 @@
 {
-  "name": "asdkjaskfj",
-  "email": "fndjnjds",
-  "contact": "dnsfjnjdsf",
+  "name": "parvez",
+  "email": "MDPARCVEDZSS",
+  "contact": "12345678887",
   "branch": "",
-  "address": "dfnnjds",
-  "companyName": "dshfdjjn",
-  "message": "fdjjdsf"
+  "address": " jhfe ryuvw j",
+  "companyName": "d companay",
+  "message": "jhksdjhd djkcdu fuk u"
 }
